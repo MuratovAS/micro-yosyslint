@@ -1,15 +1,22 @@
 [{
   "Name": "yosyslint",
-  "Description": "Plugin for checking the syntax of the Verilog language. Based on yosys or apio yosys.",
-  "Tags": ["yosys","lint","verilog","apio"],
+  "Description": "Plugin for checking the syntax of the Verilog language. Based on yosys.",
+  "Tags": ["yosys","lint","verilog"],
   "Website": "https://github.com/muratovas/micro-yosyslint",
   "Versions": [
-  {
-    "Version": "0.0.1",
-    "Url": "https://github.com/muratovas/micro-yosyslint/archive/v0.0.1.zip",
-    "Require": {
-      "micro": ">=2.0.0"
+    {
+      "Version": "0.0.3",
+      "Url": "https://github.com/muratovas/micro-yosyslint/archive/v0.0.3.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    },
+    {
+      "Version": "0.0.2",
+      "Url": "https://github.com/muratovas/micro-yosyslint/archive/v0.0.2.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
     }
-  }
   ]
 }]

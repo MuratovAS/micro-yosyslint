@@ -7,6 +7,8 @@ Tested version: Micro 2.0.10; Yosys 2019.12.11
 
 ## Installation
 
+This plugin for work requires `Yosys`, install it in your system.
+
 To install the plugin in `micro editor`, add to the configuration file:
 
 ~~~bash
